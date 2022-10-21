@@ -9,7 +9,7 @@ metadata:
     - nginx
     - fargate
 spec:
-  owner: service@example.com
+  owner: user:default/paulwelch
   type: service
 
   parameters:
